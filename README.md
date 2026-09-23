@@ -6,6 +6,10 @@ It is designed for **B2B lead generation, email research, OSINT-style web resear
 
 The software combines high-speed web crawling, configurable page-level filtering, multilingual web extraction, proxy support, browser-based crawling for JavaScript-rendered pages, and AI-assisted keyword research.
 
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/main-interface.png)
+
 **Official website:** https://www.ahmadsoftware.com/69/cute-web-email-extractor.html
 
 **Developer:** Ahmad Software Technologies
