@@ -79,6 +79,9 @@ Supported search engines include:
 
 Search terms can be entered in different languages, allowing users to conduct multilingual research.
 
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/SearchEngine.png)
 ---
 
 ## AI-Assisted Keyword Research
@@ -86,6 +89,7 @@ Search terms can be entered in different languages, allowing users to conduct mu
 Cute Web Email Extractor integrates AI-assisted keyword research to help expand a user's initial search idea into additional relevant search terms.
 
 The software can work with **ChatGPT and Gemini** API through its interface.
+
 ## Interface
 
 ![Cute Web Email Extractor interface](screenshots/AIKeywordGenerator.png)
@@ -139,7 +143,7 @@ The workflow can therefore combine:
 
 **User keywords → AI-assisted expansion → web search → crawling → page filtering → email extraction → email filtering**
 
----
+
 
 ## Two-Stage Page-Level Filtering
 
@@ -148,6 +152,9 @@ Cute Web Email Extractor provides page-level controls that can be applied during
 ### 1. Control Which Pages Are Followed
 
 Users can configure the crawler to follow links only when a page contains specified words.
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/Synonym-Enhanced-Page-Filtering.png)
 
 For example, a user could prioritize pages containing:
 
@@ -175,7 +182,9 @@ from
 
 and gives users more control over large crawling jobs.
 
----
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/Synonym-Enhanced-Email-Filtering.png)
 
 ## Page Inclusion Filters
 
