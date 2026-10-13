@@ -99,13 +99,16 @@ accounting firms
 AI-assisted keyword research can help identify related concepts such as:
 
 ```text
-accounting services
-accounting companies
-CPA firms
-bookkeeping companies
-tax consulting firms
-financial accounting services
-business accounting services
+top accounting firms United States
+certified public accountant services
+b2b accounting and advisory firms
+corporate tax preparation services
+outsourced accounting providers
+financial auditing firms United States
+small business accounting agency
+cpa and advisory services
+enterprise bookkeeping firms
+strategic tax planning services
 ```
 
 This allows users to create broader search campaigns without manually thinking of every possible variation.
