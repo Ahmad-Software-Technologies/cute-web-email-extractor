@@ -85,7 +85,10 @@ Search terms can be entered in different languages, allowing users to conduct mu
 
 Cute Web Email Extractor integrates AI-assisted keyword research to help expand a user's initial search idea into additional relevant search terms.
 
-The software can work with **ChatGPT and Gemini** through its interface.
+The software can work with **ChatGPT and Gemini** API through its interface.
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/AIKeywordGenerator.png)
 
 For example, a user may start with:
 
