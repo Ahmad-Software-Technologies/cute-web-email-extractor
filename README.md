@@ -1,10 +1,12 @@
 # Cute Web Email Extractor
 
-## Download Link https://www.ahmadsoftware.com/download.html?id=24
-
 **Cute Web Email Extractor** is Windows email extractor software for discovering publicly available email addresses from websites, search-engine results, PDFs, online documents, and other supported web sources.
 
 It is designed for **B2B lead generation, email research, OSINT-style web research, prospecting, contact discovery, and building targeted business email lists**.
+
+##<a href="[YOUR_DOWNLOAD_URL](https://www.ahmadsoftware.com/download.html?id=24)" target="_blank">
+  Download Cute Web Email Extractor
+</a>
 
 The software combines high-speed web crawling, configurable page-level filtering, multilingual web extraction, proxy support, browser-based crawling for JavaScript-rendered pages, and AI-assisted keyword research.
 
