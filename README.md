@@ -206,7 +206,7 @@ procurement
 ```
 ## Interface
 
-![Cute Web Email Extractor interface](screenshots/Page-Inclusion-Filters-Settings.png)
+![Cute Web Email Extractor interface](screenshots/URL-Keyword-Filtering-Settings.png)
 
 Multiple keywords and combinations can be used according to the extraction requirements.
 
@@ -247,7 +247,7 @@ privacy
 terms
 ```
 ## Interface
-![Cute Web Email Extractor interface](screenshots/URL-Keyword-Filtering-Settings.png)
+![Cute Web Email Extractor interface](screenshots/URL-Inclusion-Filters-Settings.png)
 
 This can reduce unnecessary crawling and help focus the crawler on relevant pages.
 
