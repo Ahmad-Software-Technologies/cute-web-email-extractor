@@ -10,7 +10,7 @@ The software combines high-speed web crawling, configurable page-level filtering
 
 **<a href="https://www.youtube.com/playlist?list=PLDAazxQsuqJo" target="_blank">Youtube Channel</a>**
 
-**<a href="https://www.ahmadsoftware.com/contactus.html" target="_blank">Contact Us</a>** 
+**<a href="https://www.ahmadsoftware.com/contactus.html" target="_blank">Contact Us Via Email or Whatsapp</a>** 
 
 ## Interface
 
