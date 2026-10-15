@@ -333,7 +333,8 @@ Users can configure:
 * Text removal
 * Content cleanup
 * Extraction filtering
-
+## Interface
+![Cute Web Email Extractor interface](screenshots/Find-and-Replace-Settings.png)
 These options can help standardize extracted data before it is exported.
 
 ---
