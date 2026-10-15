@@ -156,7 +156,7 @@ Cute Web Email Extractor provides page-level controls that can be applied during
 Users can configure the crawler to follow links only when a page contains specified words.
 ## Interface
 
-![Cute Web Email Extractor interface](screenshots/AI-Generator-Email-Filters.png)
+![Cute Web Email Extractor interface](screenshots/AI-Generator-Page-Crawl-Filters.png)
 
 For example, a user could prioritize pages containing:
 
@@ -186,7 +186,10 @@ and gives users more control over large crawling jobs.
 
 ## Interface
 
-![Cute Web Email Extractor interface](screenshots/Synonym-Enhanced-Email-Filtering.png)
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/AI-Generator-Email-Filters.png)
+
 
 ## Page Inclusion Filters
 
