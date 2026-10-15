@@ -193,7 +193,7 @@ and gives users more control over large crawling jobs.
 
 ## Page Inclusion Filters
 
-Users can configure rules that require pages to contain specific words before the page is included for extraction.
+Users can configure rules that require page contents contain specific words before the page is included for follow-up links.
 
 Examples:
 
@@ -268,6 +268,7 @@ staff
 ```
 ## Interface
 ![Cute Web Email Extractor interface](screenshots/URL-Inclusion-Filters-Settings.png)
+
 A user can configure the crawler to prioritize URLs containing these terms.
 
 This is useful when websites contain large numbers of pages but contact information is more likely to be found on particular pages.
@@ -305,6 +306,8 @@ Filtering options can include:
 * Domain exclusion
 * Image/file-extension exclusions
 * Removal of unwanted or generic addresses
+## Interface
+![Cute Web Email Extractor interface](screenshots/Email-Filter-Settings.png)
 
 For example, users can exclude addresses associated with unwanted domains or patterns.
 
@@ -312,7 +315,7 @@ For example, users can exclude addresses associated with unwanted domains or pat
 
 ## Duplicate Removal
 
-Duplicate email addresses can be removed from extraction results.
+Software automatically remove duplicate email addresses from extraction results.
 
 This is useful when the same email address appears on multiple pages or across multiple sources.
 
@@ -344,7 +347,8 @@ This can help process pages containing:
 * JavaScript-rendered content
 * AJAX-loaded content
 * Dynamically generated page elements
-
+## Interface
+![Cute Web Email Extractor interface](screenshots/Browser-Based-Crawling.png)
 This is different from the generic crawler, which does not execute JavaScript.
 
 ---
@@ -367,7 +371,8 @@ Cute Web Email Extractor can discover publicly available email addresses from su
 * Search-engine results
 
 This can be particularly useful for research involving company directories, reports, publications, brochures, documents, and other publicly accessible resources.
-
+## Interface
+![Cute Web Email Extractor interface](screenshots/Online-Document-Filtering-Settings.png)
 ---
 
 ## Multilingual Web Crawling
@@ -406,6 +411,9 @@ The software supports multiple proxy protocols, including:
 Proxy configuration can be useful for users operating large crawling jobs or working with geographically distributed web sources.
 
 Users are responsible for configuring proxies appropriately and complying with the policies and laws applicable to their use of the software and the websites they access.
+
+## Interface
+![Cute Web Email Extractor interface](screenshots/Proxy-Support-Settings.png)
 
 ---
 
