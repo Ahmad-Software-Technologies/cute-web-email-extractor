@@ -4,7 +4,8 @@
 
 It is designed for **B2B lead generation, email research, OSINT-style web research, prospecting, contact discovery, and building targeted business email lists**.
 
-## <a href="https://www.ahmadsoftware.com/download.html?id=24" target="_blank" rel="noopener noreferrer">
+## Download Link:
+<a href="https://www.ahmadsoftware.com/download.html?id=24" target="_blank" rel="noopener noreferrer">
   Download Cute Web Email Extractor
 </a>
 
