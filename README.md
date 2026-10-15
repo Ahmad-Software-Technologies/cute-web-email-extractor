@@ -133,16 +133,18 @@ The expanded terms can then be used as search queries within the extraction work
 
 ---
 
-## Synonym-Enhanced Email Filtering
+## AI-Powered Page-Level Email Filtering
 
-The software can also use synonyms and related terms when applying user-defined filtering rules.
+Generate relevant page-level filtering keywords with AI to identify web pages that match your target industries, services, products, and business categories.
 
-This can help users create broader or more targeted extraction criteria without manually entering every variation of a term.
+Instead of manually compiling long lists of keywords, users can leverage AI to generate commercially relevant search terms that help the crawler discover and filter pages based on their content before extracting email addresses.
 
-The workflow can therefore combine:
+This AI-assisted workflow helps users build more targeted email lists while reducing the need to manually define every filtering term.
 
-**User keywords → AI-assisted expansion → web search → crawling → page filtering → email extraction → email filtering**
+**AI-assisted workflow:**
+**Search Engine User Keywords → AI-Generated Page Filter Keywords → Web Search → Web Crawling → Page Content Filtering → Email Extraction → Email Filtering**
 
+This approach is especially useful for B2B lead generation, targeted prospecting, and discovering publicly available business contact information across relevant websites.
 
 
 ## Two-Stage Page-Level Filtering
@@ -154,7 +156,7 @@ Cute Web Email Extractor provides page-level controls that can be applied during
 Users can configure the crawler to follow links only when a page contains specified words.
 ## Interface
 
-![Cute Web Email Extractor interface](screenshots/Synonym-Enhanced-Page-Filtering.png)
+![Cute Web Email Extractor interface](screenshots/AI-Generator-Email-Filters.png)
 
 For example, a user could prioritize pages containing:
 
