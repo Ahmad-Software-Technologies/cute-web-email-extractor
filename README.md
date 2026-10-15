@@ -204,6 +204,9 @@ marketing
 management
 procurement
 ```
+## Interface
+
+![Cute Web Email Extractor interface](screenshots/Page-Inclusion-Filters-Settings.png)
 
 Multiple keywords and combinations can be used according to the extraction requirements.
 
@@ -221,7 +224,9 @@ terms
 login
 checkout
 ```
+## Interface
 
+![Cute Web Email Extractor interface](screenshots/Omit-Page-Words-Settings.png)
 If a page contains configured omit words, it can be excluded according to the user's filtering configuration.
 
 ---
@@ -241,6 +246,8 @@ checkout
 privacy
 terms
 ```
+## Interface
+![Cute Web Email Extractor interface](screenshots/URL-Keyword-Filtering-Settings.png)
 
 This can reduce unnecessary crawling and help focus the crawler on relevant pages.
 
@@ -259,7 +266,8 @@ about
 team
 staff
 ```
-
+## Interface
+![Cute Web Email Extractor interface](screenshots/URL-Inclusion-Filters-Settings.png)
 A user can configure the crawler to prioritize URLs containing these terms.
 
 This is useful when websites contain large numbers of pages but contact information is more likely to be found on particular pages.
