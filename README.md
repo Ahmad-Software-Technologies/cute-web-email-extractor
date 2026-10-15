@@ -395,7 +395,8 @@ Supported interface languages include:
 * Turkish
 * Arabic
 * Urdu
-
+## Interface
+![Cute Web Email Extractor interface](screenshots/Multi-Lingual-Support.png)
 Multilingual searching can help users research companies and organizations across different countries and language markets.
 
 ---
