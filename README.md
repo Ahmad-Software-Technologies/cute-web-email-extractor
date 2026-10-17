@@ -564,6 +564,9 @@ For licensing, pricing, trial information, updates, and product downloads, visit
 https://www.ahmadsoftware.com/69/cute-web-email-extractor.html
 
 ---
+## Robots.txt Compliance
+
+Cute Web Email Extractor follows the <a href="https://www.robotstxt.org/" target="_blank" rel="noopener">Robots.txt Standard </a> standard, respecting applicable crawling directives set by website owners to control which parts of their websites the crawler can access.
 
 ## Product Documentation
 
